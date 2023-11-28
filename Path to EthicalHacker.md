@@ -1,16 +1,16 @@
 ## Hacking is a Journey 
 ### Below are some of the Resources to learn
 1. Computer Basics
-   - Professor Messer on Youtube
-   - Paul Browning on Youtube
-   - Mike Meyers in Udemy CompTIA A+
+   - Professor Messer in Youtube - https://www.youtube.com/user/professormesser
+   - Paul Browning in Youtube - https://www.youtube.com/user/paulcbrowning
+   - Mike Meyers in Udemy CompTIA A+ - https://www.udemy.com/user/mikemeyers/
 2. Network Training
-   - Network Plus by Professor Messer
-   - Paul Browning
-   - Bits and Bytes of Networking in Youtube by Google
+   - Network Plus by Professor Messer in Youtube - https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd
+   - Paul Browning in Youtube - https://www.youtube.com/user/paulcbrowning
+   - Bits and Bytes of Networking in Youtube by Google - https://www.youtube.com/playlist?list=PL4o29bINVT4EG_y-k5jGoOu3-Am8Nvi10
    - Networking basics by Cisco
 3. Linux Essentials 
-   - Bandit Lab
+   - Bandit Labs
    - Interactive labs by Redhat with 60days free labs
    - NDG Linux essentials by Cisco
 4. Security Foundations
